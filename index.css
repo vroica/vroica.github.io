@@ -17,6 +17,7 @@ h6 {
 }
 
 p {
-  text-decoration: underline darkred;
+  text-decoration: underline overline darkred;
+  line-height: 10px;
 }
 
